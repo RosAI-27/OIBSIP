@@ -1,0 +1,31 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.zip
+*.gz
+*.json
+# Keep small metadata/sample files explicitly with ! if needed
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
+kaggle.json
