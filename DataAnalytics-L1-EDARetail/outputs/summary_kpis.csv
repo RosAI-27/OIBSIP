@@ -1,0 +1,13 @@
+metric,value
+transactions,2000
+customers,155
+revenue,911720.00
+profit,721957.30
+profit_margin_pct,79.19
+female_revenue_share_pct,51.05
+male_revenue_share_pct,48.95
+top_20_customer_revenue_share_pct,44.74
+strongest_quarter_2022,2022Q4
+strongest_quarter_2022_revenue,210030.00
+strongest_quarter_2023,2023Q4
+strongest_quarter_2023_revenue,184160.00
